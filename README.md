@@ -1,3 +1,2 @@
-# josh-baker-react-portfolio
+# Josh Baker React Portfolio Application
 
-# This project is a showcase for my react projects
