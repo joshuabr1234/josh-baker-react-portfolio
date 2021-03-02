@@ -1,2 +1,2 @@
-# Josh Baker React Portfolio Application
+# Joshua Baker React Portfolio Application
 
